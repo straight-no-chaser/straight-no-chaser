@@ -1,6 +1,4 @@
-# Xingyuan Zhang
-
-PhD candidate in Chemistry and Computer Science, Wu Tsai Neurosciences and Sarafan ChEM-H Institute at Stanford University. Working on scientific machine learning, biomolecular modeling, and protein design for drug discovery and disease modeling.
+I am Xingyuan Zhang, PhD candidate in Chemistry and Computer Science, Wu Tsai Neurosciences and Sarafan ChEM-H Institute at Stanford University. Working on scientific machine learning, biomolecular modeling, and protein design for drug discovery and disease modeling.
 
 ## Research Interests
 
