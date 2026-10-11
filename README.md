@@ -6,7 +6,7 @@ Also a mountain biker and a professional bartender outside of labs.
 ## Education
 
 **Stanford University**  
-Ph.D. in Chemistry and Computer Science, Expected 2028
+Ph.D., Chemistry, Computer Science, Expected 2028
 
 **Peking University**  
-B.Sc. in Chemistry, summa cum laude, 2023
+B.Sc., Chemistry, summa cum laude, 2023
