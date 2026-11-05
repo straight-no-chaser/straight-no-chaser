@@ -3,8 +3,8 @@ PhD candidate in Chemistry and Computer Science at Wu Tsai Neurosciences Institu
 
 ## Education
 
-**Stanford University**  
+**Stanford University**, Wu Tsai Neurosciences Institute
 Ph.D., Chemistry, Computer Science, Expected 2028
 
-**Peking University**  
-B.Sc., Chemistry, summa cum laude, 2023
+**Peking University**, College of Chemistry and Molecular Engineering
+B.Sc., Chemistry, *summa cum laude*, 2023
