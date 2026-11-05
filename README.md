@@ -1,7 +1,5 @@
 ## Introduction
-PhD candidate in Chemistry and Computer Science, Wu Tsai Neurosciences and Sarafan ChEM-H Institute at Stanford University. Working on scientific machine learning and translational medicine, with a focus on biomolecular modeling, generative protein design, and therapeutic discovery.
-
-Also a mountain biker and a professional bartender outside of labs.
+PhD candidate in Chemistry and Computer Science at Wu Tsai Neurosciences Institute, Stanford University. Working on translational medicine and scientific machine learning, with a focus on biomolecular modeling, generative protein design, and therapeutic discovery.
 
 ## Education
 
